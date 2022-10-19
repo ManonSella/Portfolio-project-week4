@@ -32,6 +32,17 @@ p {
   line-height: 30px;
 }
 
+.link-project {
+  color: #6c62fb;
+  font-size: 22px;
+  font-weight: 400;
+  text-decoration: none;
+  transition: 120ms all ease-in-out;
+}
+
+.link-project:hover {
+  color: #272142;
+}
 .hero {
   background: var(--secondary-color);
   padding: 80px 20px;
@@ -71,7 +82,7 @@ p {
 }
 
 .project-description {
-  padding: 120px 60px;
+  padding: 80px 60px;
 }
 
 .content-container {
