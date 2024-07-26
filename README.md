@@ -12,9 +12,10 @@ The portfolio is deployed on Netlify, you can visit it here: https://superlative
 ## Projects
 
 ### Weather Application
-- Description: A weather application built with React.
+- A weather application built with React, HTML, CSS, Bootstrap. It provides the weather forecast over five days over 150 O00 cities based on data from Openweather 
+  API. 
 - Repository: https://github.com/ManonSella/weather-app-vanilla.git
 
 ### Dictionary Application
-- Description: A dictionary application built with React.
+- A monolingual dictionary application built with React, HTML, CSS, Bootstrap, fetching data from an API. It provides definitions, audio, and synonyms.
 - Repository: https://github.com/ManonSella/dictionary-app.git
